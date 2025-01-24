@@ -1,3 +1,4 @@
+![Screenshot_20250118-045200_Chrome](https://github.com/user-attachments/assets/f03426a1-a115-4499-a5cc-c6eeb14d5d6e)
 # <img src="https://github.com/linera-io/linera-protocol/assets/1105398/fe08c941-93af-4114-bb83-bcc0eaec95f9" width="250" height="90" />
 
 [![License](https://img.shields.io/badge/license-Apache-green.svg)](LICENSE)
